@@ -1,0 +1,14 @@
+# Library Descriptions for KiCad
+# Format:
+#   library_name: "Description text"
+#
+# Example:
+#   Symbols_library: "Sample symbol library description"
+
+# Symbol library descriptions
+symbols:
+  Symbols_library: "Sample symbol library description"
+
+# Footprint library descriptions
+footprints:
+  Footprints_library: "Sample footprint library description"

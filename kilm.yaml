@@ -1,0 +1,11 @@
+capabilities:
+  footprints: true
+  symbols: true
+  templates: true
+created_with: kilm
+description: KiCad library Library
+env_var: KICAD_LIB_KICAD_LIBRARY
+name: KiCad_Library
+type: github
+updated_with: kilm
+version: 1.0.0
