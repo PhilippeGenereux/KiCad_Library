@@ -1,0 +1,10 @@
+{
+  "name": "3Dmodel",
+  "description": "KiCad 3D model library 3Dmodel",
+  "type": "cloud",
+  "version": "1.0.0",
+  "env_var": "KICAD_3D_3DMODEL",
+  "model_count": 1,
+  "created_with": "kilm",
+  "updated_with": "kilm"
+}
